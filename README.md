@@ -13,3 +13,4 @@ The technologies I have touched or am learning are:
 - MySQL
 - Bootstrap
 - Java
+- MIT app inventor
